@@ -576,5 +576,3 @@ Fase 2 utente
 | sandro     | SANdro96            |
 | matt00     | mattia2024          |
 | MarioRossi | marioPASS24         |
-#   B u d g e t - s o c i a l e  
- 
